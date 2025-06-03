@@ -1,5 +1,5 @@
 # fuzzDicts
-Web Pentesting Fuzz 字典,一个就够了。
+Web Pentesting Fuzz 字典,一个就够了。20250603 字典
 
 ## log 
 
